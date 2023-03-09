@@ -1,3 +1,7 @@
 print ("Ma. Angela P. Sanchez")
 print ("Bacongbacong, Gasan, Marinduque")
 print ("April 15, 2003")
+print ("College of Information and Computing Sciences")
+print ("Bachelor of Science in Information Technology")
+print ("2nd Year")
+print ("Section A")
